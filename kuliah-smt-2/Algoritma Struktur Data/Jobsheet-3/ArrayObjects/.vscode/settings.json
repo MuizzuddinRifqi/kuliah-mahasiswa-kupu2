@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Latihan"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
